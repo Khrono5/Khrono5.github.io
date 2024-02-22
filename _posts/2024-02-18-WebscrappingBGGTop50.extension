@@ -3,9 +3,17 @@ title: Webscrapping the BGG Top 50
 date: 2024-02-18 
 categories: [Python, Webscrapping, Boardgame]
 tags: [TAG]     # TAG names should always be lowercase
----
 toc: false
----
 comments: false
 ---
-This is a test of the page.
+
+Board games have become a major hobby in the last 30 years. The board game market has grown 
+significantly and is expected to generate over three billion dollars in the US alone. With this
+boom in popularity, I thought it would be appropriate to look at and explore the most popular games
+according to the website www.BoardGameGeek.com, since it's the leading website for all things relating
+to board games. Their website features a top 50 ranking that is updated monthly according to user ratings
+of the most popular board games. It also has an extensive database with a ton of information on most 
+board games as well as a large community forum that is very active. Luckily there is a forum post that archives
+top 50 games since the list began. I thought it would be interesting to look at the games on the list
+and how they've changed over the years. I built a webscraper to take all the information from the forum
+post and then save all the information in a csv file. 
