@@ -24,5 +24,5 @@ file is there because there are some inconsistencies in how some board game name
 easier I preprocess those names so that any analysis done later is not plagued with these issues. 
 
 <a href="https://github.com/Khrono5/WebScrappingBGGtop50">
-<img src="img/GitHub_Logo_White.png" alt="Webscrapping BGG Top 50">
+<img src="img/GitHub_Logo_White.png" alt="Webscrapping BGG Top 50" style = "width:50px;">
 </a>
