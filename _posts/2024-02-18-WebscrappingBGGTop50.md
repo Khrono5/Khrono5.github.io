@@ -7,7 +7,7 @@ toc: false
 comments: false
 ---
 
-[![githublink](img/GitHub_Logo_White.png)](https://github.com/Khrono5/WebScrappingBGGtop50)
+
 
 
 Board games have become a major hobby in the last 30 years. The board game market has grown 
@@ -26,12 +26,4 @@ custom functions that help with extract the information from the webscrapping. T
 file is there because there are some inconsistencies in how some board game names are written, so to make analysis
 easier I preprocess those names so that any analysis done later is not plagued with these issues. 
 
-
-
-[github link](https://github.com/Khrono5/WebScrappingBGGtop50)
-
-
-
-<a href="https://github.com/Khrono5/WebScrappingBGGtop50">
-    <img src="img/GitHub_Logo_White.png" alt="Webscrapping BGG Top 50" class="image fit">
-</a>
+[![githublink](img/GitHub_Logo_White.png)](https://github.com/Khrono5/WebScrappingBGGtop50){w=200px}
