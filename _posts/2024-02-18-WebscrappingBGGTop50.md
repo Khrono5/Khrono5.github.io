@@ -29,6 +29,6 @@ easier I preprocess those names so that any analysis done later is not plagued w
 [![githublink](img/GitHub_Logo_White.png){:width="100px" .light}](https://github.com/Khrono5/WebScrappingBGGtop50)
 [![githublink](img/GitHub_Logo_White.png){:width="100px" .dark}](https://github.com/Khrono5/WebScrappingBGGtop50)
 
-[![githublink](img/GitHub_Logo_White.png){:width="100px" .light}]
+![githublink](img/GitHub_Logo.png){:width="100px" .light}
 
-[![githublink](img/GitHub_Logo_White.png){:width="100px" .dark}]
+![githublink](img/GitHub_Logo_White.png){:width="100px" .dark}
