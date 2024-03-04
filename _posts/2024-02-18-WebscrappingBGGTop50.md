@@ -26,10 +26,7 @@ custom functions that help with extract the information from the webscrapping. T
 file is there because there are some inconsistencies in how some board game names are written, so to make analysis
 easier I preprocess those names so that any analysis done later is not plagued with these issues. 
 
-[![githublink](img/GitHub_Logo.png){:width="100px" .light}](https://github.com/Khrono5/WebScrappingBGGtop50)
 
 [![githublink](img/GitHub_Logo_White.png){:width="100px" .dark}](https://github.com/Khrono5/WebScrappingBGGtop50)
-
-![githublink](img/GitHub_Logo.png){:width="100px" .light}
 
 ![githublink](img/GitHub_Logo_White.png){:width="100px" .dark}
