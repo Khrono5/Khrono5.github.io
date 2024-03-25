@@ -1,5 +1,5 @@
 ---
-title: Webscraping the BGG Top 50
+title: Web Scraping the BGG Top 50
 date: 2024-02-18 
 categories: [Python, Webscraping, Boardgame]
 tags: [TAG]     # TAG names should always be lowercase
