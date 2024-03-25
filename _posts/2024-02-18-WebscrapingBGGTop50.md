@@ -1,7 +1,7 @@
 ---
-title: Webscrapping the BGG Top 50
+title: Webscraping the BGG Top 50
 date: 2024-02-18 
-categories: [Python, Webscrapping, Boardgame]
+categories: [Python, Webscraping, Boardgame]
 tags: [TAG]     # TAG names should always be lowercase
 toc: false
 comments: false
@@ -20,11 +20,11 @@ board games as well as a large community forum that is very active. Luckily ther
 top 50 games since the list began. I thought it would be interesting to look at the games on the list
 and how they've changed over the years. I built a webscraper to take all the information from the forum
 post and then save all the information in a csv file. The scraper is built in a jupyter notebook and has 3 files.
-The main called Web_scrappingTop50.ipynb is the main file that contains the bulk of the code and is the one that
+The main called Web_scrapingTop50.ipynb is the main file that contains the bulk of the code and is the one that
 would needed to be run to create your own csv containing the data. The customFunc.ipynb contains several
 custom functions that help with extract the information from the webscrapping. The replacingNames.ipynb 
 file is there because there are some inconsistencies in how some board game names are written, so to make analysis
 easier I preprocess those names so that any analysis done later is not plagued with these issues. 
 
 
-[![githublink](img/GitHub_Logo_White.png){:width="100px" .dark}](https://github.com/Khrono5/WebScrappingBGGtop50)
+[![githublink](img/GitHub_Logo_White.png){:width="100px" .dark}](https://github.com/Khrono5/WebScrapingBGGtop50)
