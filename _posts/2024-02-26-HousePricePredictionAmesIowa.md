@@ -7,7 +7,10 @@ toc: false
 comments: false
 ---
 
-This project was a submission for the [Kaggle House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) competiion. The link to the github repository as well as the kaggle page with the jyupter notebook are provided below. 
+Data Source:
+[Kaggle House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
+
+This project was a submission for the Kaggle competiion linked above. The link to the github repository as well as the kaggle page with the jyupter notebook are provided below. 
 
 This data set was on the smaller side for the task at hand, however it provides quite an extensive set of variables that could play a deciding factor in the home prices. I approached this project with the intent of not only focusing on the regression, but primarily on the variable exploration and selection process. 
 
