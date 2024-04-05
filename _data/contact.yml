@@ -25,3 +25,6 @@
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
+- type: kaggle
+  icon: 'fa-brands fa-kaggle'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.kaggle.com/mackenwong'                  # Fill with your Linkedin homepage
