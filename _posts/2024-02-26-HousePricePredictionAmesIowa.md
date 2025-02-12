@@ -19,3 +19,4 @@ This data set was on the smaller side for the task at hand, however it provides 
 
 [![githublink](img/GitHub_Logo_White.png){:width="100px"}](https://github.com/Khrono5/House-Price-Prediction)
 [![kagglelink](img/kaggle-logo-transparent-300.png){:width="100px"}](https://www.kaggle.com/code/mackenwong/full-analysis-and-forecast)
+[![TableauDashboard](img/tableau.svg){:width="100px"}](https://public.tableau.com/views/ameshomes/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)

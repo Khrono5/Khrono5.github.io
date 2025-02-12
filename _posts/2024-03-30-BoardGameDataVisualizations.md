@@ -6,5 +6,5 @@ tags: [TAG]     # TAG names should always be lowercase
 toc: false
 comments: false
 ---
-
+ 
 Data Source: [Board Games](https://www.kaggle.com/datasets/mshepherd/board-games)
