@@ -14,7 +14,7 @@ This project was a submission for the Kaggle competiion linked above. The link t
 
 This data set was on the smaller side for the task at hand, however it provides quite an extensive set of variables that could play a deciding factor in the home prices. I approached this project with the intent of not only focusing on the regression, but primarily on the variable exploration and selection process. 
 
-
+testing testing
 
 
 [![githublink](img/GitHub_Logo_White.png){:width="100px"}](https://github.com/Khrono5/House-Price-Prediction)
